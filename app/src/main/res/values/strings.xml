@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestTaskEmploycity</string>
+
+    <!--Common-->
+    <string name="currencies">Currencies</string>
+    <string name="favorites">Favorites</string>
+    <string name="filters">Filters</string>
+    <string name="sort_by">SORT BY</string>
+    <string name="apply">Apply</string>
+    <string name="no_rates_available">No rates available</string>
+    <string name="error">"Error: "</string>
+
+    <!--Sort-->
+    <string name="code_a_z">Code A-Z</string>
+    <string name="code_z_a">Code Z-A</string>
+    <string name="quote_asc">Quote Asc.</string>
+    <string name="quote_desc">Quote Desc.</string>
+
+    <!--Currencies-->
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="jpy">JPY</string>
+
+
+</resources>
